@@ -28,5 +28,5 @@ This project is released under the [GNU General Public License v3.0](LICENSE).
 Original project created by [**Lorypage**](https://github.com/Lorypage/ALTs-Tools); this repository builds on and improves it.
 
 <div align="center">
-<sub>If this project helps you, consider leaving a ⭐ Star</sub>
+<sub>btw thx gemini help me meke this</sub>
 </div>
